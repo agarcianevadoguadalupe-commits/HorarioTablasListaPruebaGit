@@ -1,0 +1,75 @@
+body {
+    background-color: #fcdd99;
+}
+
+table {
+    margin-bottom: 20px;
+    margin: 0 auto;
+}
+
+td, th{
+    height: 40px;
+    vertical-align: auto;
+}
+
+h2 {
+    margin: 0 0 12px;
+    text-align: center;
+}
+
+h3 {
+    margin-top: 10px;
+}
+
+.info {
+    background-color: #ffffff;
+}
+
+.IPP2 {
+    background-color: #febfca;
+    text-align: center;
+}
+.Cliente {
+    background-color: hsl(34, 100%, 76%);
+    text-align: center;
+}
+
+.Servidor {
+    background-color: #b8f0a9;
+    text-align: center;
+}
+
+.Despliegue {
+    background-color: #a7d0fc;
+    text-align: center;
+}
+
+.OPT1 {
+    background-color: #d8b9fd;
+    text-align: center;
+}
+
+.OPT2 {
+    background-color: #d7b8fc;
+    text-align: center;
+}
+
+.Digitalización {
+    background-color: #99c8fc;
+    text-align: center;
+}
+
+.Intermodular {
+    background-color: #feeb8c;
+    text-align: center;
+}
+
+.Sostenibilidad {
+    background-color: #abeae9;
+    text-align: center;
+}
+
+.Tutoría {
+    background-color: #cacdd2;
+    text-align: center;
+}
